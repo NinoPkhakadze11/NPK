@@ -1,0 +1,150 @@
+.back-color {
+	background: #F6F8F9;
+	width: 100%;
+	height: 100%;
+}
+
+.fixed-header{
+	top: 0;
+	left: 0;
+	position: fixed;
+	width: 100%;
+}
+
+
+.LOGO {
+	display: inline-block;
+	width: 38x;
+	height: 13px;
+	margin-right:  92px;
+	margin-left: 17px;
+	vertical-align: middle;
+}
+.navigation {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+
+
+
+.header-image {
+	display: inline-block;
+	vertical-align: middle;
+	width: 30px;
+	height: 30px;
+	margin-left: 18px;
+}
+.nav-li {
+	
+	display: inline-block;
+	color: #A6ADB4;
+}
+
+
+
+.font-color {
+	color: #A6ADB4;
+	margin-right: 22px;
+}
+.nav-active {
+	color: #202124;
+	margin-right: 27px;
+}
+
+
+
+.article-name {	
+	margin-top: 25px;
+	margin-right: 140px;
+	margin left: 530px;
+	margin-bottom: 40px;
+
+}
+.first-block {
+	width: 1160px;
+	height: 410px;
+	margin-top: 40px;
+	display: inline-block;
+	/*margin: 75px 140px 1252px;*/
+
+}
+
+
+.first-image {
+	width: 360px;
+	height: 350px;
+	background: #FFFFFF;
+	vertical-align: bottom;
+	margin-right: 22px;
+	/*margin: 135px 940px 1252px 140px ;*/
+	display: inline-block;
+
+	
+}
+
+.text-first-block {
+	color: #A6ADB4;
+	font-size: 13px;
+	margin: 66px 40px	0px 40px;
+	
+}
+
+.timing {
+	margin: 10px 250px 40px 40px;
+
+}
+
+.second-block {
+	width: 760px;
+	height: 900px;
+  	display: inline-block;
+
+}
+
+
+
+.second-block-image {
+	width: 760px;
+	height: 470px;
+	/*margin: 0px 40px 40px 0px; */
+	display: block;
+
+
+}
+.second-image{
+	width: 100%;
+	display: block;
+	margin: 0px;
+}
+
+
+.right-column {
+	vertical-align: bottom;
+	width: 360px;
+	height: 896px;
+	/*margin: 40px 140px 0px 40px;*/
+	display: inline-block;
+	border: none;
+}
+
+
+.right-column-photos {
+
+	display: inline-block;
+
+
+}
+
+
+
+
+.border {
+	margin: 0px 0px 0px  140px ;
+}
+
+
+/* tranding da happening now gasasworebeia marginebit */
+
+
+
